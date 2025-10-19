@@ -1,4 +1,4 @@
-// 2. Program to find the Area of Rectangle
+// Program to find the Area of Rectangle
 
 import java.util.Scanner;
 
