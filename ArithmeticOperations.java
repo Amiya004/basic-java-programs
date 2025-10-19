@@ -1,4 +1,4 @@
-// 1. Program for Arithmetic operations with initialized values. 
+// Program for Arithmetic operations with initialized values. 
 
 import java.util.Scanner;
 
