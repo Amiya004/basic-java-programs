@@ -1,7 +1,6 @@
+// 1. Program for Arithmetic operations with initialized values. 
 
 import java.util.Scanner;
-
-// 1. Program for Arithmetic operations with initialized values. 
 
 public class ArithmeticOperations {
     public static void main(String[] args) {
