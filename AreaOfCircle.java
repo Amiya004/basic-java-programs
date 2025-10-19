@@ -1,4 +1,4 @@
-//  3. Program to find Area of the Circle
+// Program to find Area of the Circle
 
 import java.util.Scanner;
 
