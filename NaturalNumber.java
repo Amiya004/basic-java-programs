@@ -10,7 +10,7 @@ public class NaturalNumber {
         if(num <= 0){
             System.out.println("Please enter a positive integer!!!");
         }else{
-            System.out.println("Natural numbers from 1 to" + num + "are:");
+            System.out.println("Natural numbers from 1 to " + num + "are:");
 
             for(int i = 1; i<= num; i++){
                 System.out.println(i + " ");
