@@ -15,8 +15,9 @@ public class ValidityOfTriangle {
         System.out.println("Enter the third angle : ");
         int angle3 = scanner.nextInt();
 
-        if(angle1+angle2 > angle3 && angle1+angle3 > angle2 && angle2+angle3 > angle1) {
-            System.out.println("The sides from a valid Triangle...");
+        int sum = angle1 + angle2 + angle3;
+        if(sum == 180 && angle1 > 0 && angle2 > 0 && angle3 > 0) {
+            System.out.println("The sides form a valid Triangle...");
         }else{
             System.out.println("The angles does not form a valid Triangle!!!");
         }
