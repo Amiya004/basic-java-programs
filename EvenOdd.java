@@ -1,7 +1,6 @@
+// Program to check the entered number even or odd.
 
 import java.util.Scanner;
-
-// Program to check the entered number even or odd.
 
 public class EvenOdd {
     public static void main(String[] args) {
