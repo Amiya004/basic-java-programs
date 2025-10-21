@@ -1,7 +1,5 @@
 // Program for voting system
 
-// Program for voting system
-
 import java.util.Scanner;
 
 public class VotingSystem {
